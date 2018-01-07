@@ -18,7 +18,7 @@
 
 資料夾 assets 是自己用得到的東西放進去
 
-有 bootstrap 目前是考慮 3，有考慮 4，等待 4 正式 
+有 bootstrap 目前是考慮 3，有考慮 4，等待正式上線吧 
 
 當然 js, css, images 也是 assets 底下的東西  
 

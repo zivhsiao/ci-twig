@@ -18,3 +18,8 @@ application/logs/*
 !application/logs/.htaccess
 /vendor/
 
+.DS_Store
+ci-twig.iml
+modules.xml
+vcs.xml
+workspace.xml
