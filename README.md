@@ -14,5 +14,13 @@
 
 與 smarty 比較，就是 twig 簡化很多的東西
 
+## 增加用到的東西
+
+資料夾 assets 是自己用得到的東西放進去
+
+有 bootstrap 目前是考慮 3，有考慮 4，等待 4 正式 
+
+當然 js, css, images 也是 assets 底下的東西  
+
 其他就自己看吧，Enjoy it!
 
